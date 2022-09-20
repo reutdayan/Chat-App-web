@@ -13,7 +13,9 @@ Then, install react-script by typing npm install react-script in the project ter
 <img src="/public/sign_in.png" alt="Sign in page image" title="sign in">
 
 To see example conversations fill:
+<br>
 username: Reut1
+<br>
 password: a123
 
 Or to see clean page, register as new client and follow the instructions.
